@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="myCircle">
+
+        <attr name="textSize" format="integer"></attr>
+
+        <attr name="inCircle" format="integer"></attr>
+
+        <attr name="outCircle" format="integer"></attr>
+
+        <attr name="inPaint" format="color"></attr>
+
+        <attr name="outPaint" format="color"></attr>
+
+    </declare-styleable>
+</resources>
